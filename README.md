@@ -6,6 +6,10 @@ This project demonstrates the process of building a dynamic and interactive data
 
 The dashboard provides a comprehensive view of the dataset, empowering stakeholders to uncover trends, gain actionable insights, and make data-driven decisions.
 
+### Preview of the Dashboard
+
+![Blinkit](https://github.com/user-attachments/assets/29e7fb66-d5d3-492a-a492-54ae3156f836)
+
 ### Project Goals
 
 - Visualize Data: Create engaging and meaningful visualizations to uncover key patterns and trends in the data.
@@ -29,10 +33,6 @@ The dashboard provides a comprehensive view of the dataset, empowering stakehold
 - Cross-Filtering: Selecting one visual automatically updates related visuals for enhanced analysis.
 - Drill-Down Options: Dive deeper into data hierarchies.
 - Dynamic Titles: Automatically adjust based on user-selected filters.
-
-### Preview of the Dashboard
-
-![Blinkit](https://github.com/user-attachments/assets/29e7fb66-d5d3-492a-a492-54ae3156f836)
 
 ### Source
 
