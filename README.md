@@ -37,5 +37,3 @@ The dashboard provides a comprehensive view of the dataset, empowering stakehold
 ### Source
 
 https://youtu.be/mmxVCFceQgU?si=4o1VmtkxCiWxLu9c
-
-https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI
